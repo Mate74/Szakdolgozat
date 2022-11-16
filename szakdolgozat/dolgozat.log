@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.7.28)  14 NOV 2022 15:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2021.7.28)  16 NOV 2022 22:41
 entering extended mode
 **./dolgozat.tex
 (dolgozat.tex
@@ -592,7 +592,7 @@ LaTeX Info: Redefining \mit on input line 578.
 
 
 (cover/cimlap.tex
-<images/me_logo.png, id=138, 1204.5pt x 1148.29pt>
+<images/me_logo.png, id=146, 1204.5pt x 1148.29pt>
 File: images/me_logo.png Graphic file (type png)
 <use images/me_logo.png>
 Package pdftex.def Info: images/me_logo.png  used on input line 9.
@@ -661,16 +661,16 @@ l.31 \include{chapters/1_introduction}
 
  (chapters/2_concept.tex
 2. fejezet.
-<images/scene.png, id=217, 530.98375pt x 461.725pt>
+<images/scene.png, id=227, 824.07875pt x 477.785pt>
 File: images/scene.png Graphic file (type png)
 <use images/scene.png>
-Package pdftex.def Info: images/scene.png  used on input line 22.
-(pdftex.def)             Requested size: 441.01773pt x 383.49937pt.
+Package pdftex.def Info: images/scene.png  used on input line 27.
+(pdftex.def)             Requested size: 441.01773pt x 255.69629pt.
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.41 \newpage
+l.31 \newpage
               [2
 
 
@@ -679,22 +679,21 @@ l.41 \newpage
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.60 \newpage
-              [3 <./images/scene.png>]pdfTeX warning (ext4): destination with t
-he same identifier (name{page.4}) has been already used, duplicate ignored
+l.54 \item K
+            ülönböző ajtók használata nem vezethet ugyanarra a blokkra.
+[3 <./images/scene.png>]pdfTeX warning (ext4): destination with the same identi
+fier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.113 \newpage
-               [4] [5] [6] [7] [8] [9] [10]
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 426.
-
-
-Package hyperref Warning: Glyph not defined in PD1 encoding,
-(hyperref)                removing `\H' on input line 426.
-
-[11]) [12]
+l.73 \newpage
+              [4]
+<images/map.png, id=242, 2610.75375pt x 287.0725pt>
+File: images/map.png Graphic file (type png)
+<use images/map.png>
+Package pdftex.def Info: images/map.png  used on input line 77.
+(pdftex.def)             Requested size: 441.01773pt x 48.49066pt.
+ [5 <./images/map.png>] [6] [7] [8] [9] [10] [11] [12]
+[13] [14] [15] [16]) [17]
 \openout2 = `chapters/3_design.aux'.
 
  (chapters/3_design.tex
@@ -708,7 +707,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package hyperref Info: bookmark level for unknown definition defaults to 0 on i
 nput line 53.
-[13
+[18
 
 
 
@@ -725,7 +724,7 @@ Package hyperref Info: bookmark level for unknown remark defaults to 0 on input
  line 73.
 Package hyperref Info: bookmark level for unknown example defaults to 0 on inpu
 t line 77.
-) [14]
+) [19]
 \openout2 = `chapters/4_implementation.aux'.
 
  (chapters/4_implementation.tex
@@ -742,7 +741,7 @@ File: lstlang1.sty 2020/03/24 1.8d listings language file
 (C:\Users\mated\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 ))
-[15
+[20
 
 
 
@@ -751,7 +750,7 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 
  (chapters/5_test.tex
 5. fejezet.
-) [16
+) [21
 
 
 
@@ -760,7 +759,7 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 
  (chapters/6_summary.tex
 6. fejezet.
-) [17
+) [22
 
 
 
@@ -768,14 +767,14 @@ File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
-) [18
+) [23
 
 
 
 ]
 \openout2 = `cover/hasznalati.aux'.
 
- (cover/hasznalati.tex) [19
+ (cover/hasznalati.tex) [24
 
 ]
 \tf@thm=\write6
@@ -790,17 +789,17 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 48.
 Package rerunfilecheck Info: File `dolgozat.out' has not changed.
-(rerunfilecheck)             Checksum: 904EDFD175DEBF6AF809F0023A104940;2316.
+(rerunfilecheck)             Checksum: CEC49B8FAD919222A7E70BC2CF447023;2576.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 12422 strings out of 481161
- 182790 string characters out of 2903894
- 667858 words of memory out of 3000000
- 27651 multiletter control sequences out of 15000+200000
+ 12433 strings out of 481161
+ 182969 string characters out of 2903894
+ 667889 words of memory out of 3000000
+ 27656 multiletter control sequences out of 15000+200000
  556392 words of font info for 80 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,11n,65p,791b,1313s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 52i,11n,65p,987b,1313s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/mated/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-sup
 er-t1.enc}{C:/Users/mated/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-supe
 r/cm-super-ts1.enc}<C:/Users/mated/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -823,9 +822,9 @@ ted/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfxc2488.pfb><C:/
 Users/mated/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xbtt.pfb
 ><C:/Users/mated/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/t1xtt
 .pfb>
-Output written on dolgozat.pdf (25 pages, 699481 bytes).
+Output written on dolgozat.pdf (30 pages, 1579604 bytes).
 PDF statistics:
- 403 PDF objects out of 1000 (max. 8388607)
- 83 named destinations out of 1000 (max. 500000)
- 283 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 435 PDF objects out of 1000 (max. 8388607)
+ 88 named destinations out of 1000 (max. 500000)
+ 304 words of extra memory for PDF output out of 10000 (max. 10000000)
 
